@@ -1,4 +1,4 @@
-# TIC-TOC-TOE
+# TIC-TAC-TOE
 A classic Tic-Tac-Toe game implemented using HTML, CSS, and Java. This project showcases a simple yet interactive game that can be played between two players.
 
 ---
