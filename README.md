@@ -1,12 +1,14 @@
 # TIC-TAC-TOE
-A classic Tic-Tac-Toe game implemented using HTML, CSS, and Java. This project showcases a simple yet interactive game that can be played between two players.
+# Tic-Tac-Toe
+
+A classic Tic-Tac-Toe game implemented in Python. This project demonstrates simple game logic, user interaction, and command-line gameplay.
 
 ---
 
 ## Features
 
-- **Interactive Gameplay**: Two players can play alternately.
-- **Winner Detection**: Automatically detects and displays the winner.
-- **Draw Condition**: Declares a draw if no moves are possible.
-- **Responsive Design**: Works seamlessly on desktops and mobile devices.
-- **Restart Option**: Allows users to reset the game and play again.
+- **Two-Player Mode**: Play with a friend in a turn-based manner.
+- **Simple UI**: A clean and intuitive command-line interface.
+- **Input Validation**: Ensures valid moves and prevents overwriting cells.
+- **Win Detection**: Identifies winning conditions and declares the winner.
+- **Draw Handling**: Detects when the game ends in a draw.
